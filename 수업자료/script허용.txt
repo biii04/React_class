@@ -1,0 +1,6 @@
+powershell 관리자로 열기
+Set-ExecutionPolicy AllSigned 입력
+Y 입력
+Set-ExecutionPolicy RemoteSigned 입력
+Y 입력
+vscode 혹은 powershell 재시작

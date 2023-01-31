@@ -1,0 +1,2 @@
+AJAX 연습용 사이트
+https://jsonplaceholder.typicode.com/
